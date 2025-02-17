@@ -792,7 +792,7 @@ a:hover.back-to-top {
 
 	/* Header */
 	.header {
-		padding-top: 11rem;
+		padding-top: 1rem;
 		padding-bottom: 9rem;
 	}
 
@@ -1092,5 +1092,7 @@ a:hover.back-to-top {
 
 	/* end of extra pages */
 }
+
+
 
 /* end of min-width 1200px */
